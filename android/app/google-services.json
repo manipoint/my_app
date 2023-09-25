@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "848754236698",
+    "project_id": "our-app-d9472",
+    "storage_bucket": "our-app-d9472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848754236698:android:b094c8fd87d4770579a0a3",
+        "android_client_info": {
+          "package_name": "com.imran.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848754236698-hohmi1073d4jm3jhe0vjlmv9nobcr7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQdT_7cHbMikge80kTKYnPhSzj5V2GtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848754236698-hohmi1073d4jm3jhe0vjlmv9nobcr7fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848754236698-cn6a3gkgbbgvjaujv11karie1hkg87en.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imran.ourApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
